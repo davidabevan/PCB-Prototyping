@@ -1,1 +1,5 @@
-
+An Attiny85 space invader game.
+Board is produced using toner transfer method. 
+I used 24mil wire trace with a ground fill isolation also of 24mil there are some thin traces circumventing the 
+microprocessor these are 12mil
+A silkscreen was then laid down after the etch and cleaning with acetone. Maybe I can use different colours on my silkscreen.
