@@ -1,0 +1,1 @@
+Resistor R2 10K has a bad placement its bottom thru hole is drilled through the pad of switch 2 right pad 2 caution!!!!!
