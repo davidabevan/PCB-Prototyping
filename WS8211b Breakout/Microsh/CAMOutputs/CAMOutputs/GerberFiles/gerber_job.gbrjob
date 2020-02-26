@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-02-25T09:47:38Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "single breakoutmicrosh"
+        },
+        "Owner": "David Bevan <dbevan79@googlemail.com>",
+        "Size": {
+            "X": 28.88,
+            "Y": 11.928
+        }
+    }
+}
