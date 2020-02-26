@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-02-25T18:41:13Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "rgbsh"
+        },
+        "Owner": "David Bevan <dbevan79@googlemail.com>",
+        "Size": {
+            "X": 30.785,
+            "Y": 34.47
+        }
+    }
+}
