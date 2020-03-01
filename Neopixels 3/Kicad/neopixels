@@ -1,0 +1,26 @@
+"Source:","C:\Users\pc\Documents\KiCad\neopixels\neo3\neopixels.sch"
+"Date:","29/02/2020 16:46:54"
+"Tool:","Eeschema (5.1.5)-3"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","9"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","D1","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D2","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D3","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D4","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D5","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D6","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D7","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","D8","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"","","J1","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","8","D1, D2, D3, D4, D5, D6, D7, D8","WS2812B","LED:WS2812B","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+"2","1","J1","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical","~"
